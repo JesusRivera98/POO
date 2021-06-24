@@ -7,7 +7,7 @@ class UberBlack extends Car {
         parent::__construct($license, $driver);
 
         $this->typeCarAccepted = $typeCarAccepted;
-        $this->seatsMaterial = $seatsMaterial
+        $this->seatsMaterial = $seatsMaterial;
     }
 }
 ?>
