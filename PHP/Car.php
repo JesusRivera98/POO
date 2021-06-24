@@ -13,9 +13,13 @@ class Car
         $this->driver = $driver;
     }
 
-    public function PrintDataCar()
-    {
-        echo "license: {$this->license}, driver: {$this->driver->name}
+    public function printDataCar() {
+        echo "
+            Licencia: $this->license 
+            Driver: {$this->driver->name} 
+            Número de pasajeros: $this->passengers
+            
+    
         ";
     }
 
