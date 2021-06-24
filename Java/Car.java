@@ -20,6 +20,9 @@ public class Car {
     }
 
     public void setPassengers(Integer passengers){
-        this.passengers = passengers;
+        if (passengers == 4)
+            this.passengers = passengers;
+        else
+            System.out.println("Necesitas asignar 4 pasajeros");
     }
 }
