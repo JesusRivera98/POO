@@ -18,11 +18,11 @@ class Car
         echo "license: {$this->license}, driver: {$this->driver->name}";
     }
 
-    public function getPassenger() {
+    public function getPassengers() {
         return $this->passenger;
     }
 
-    public function setPassenger($passenger) {
+    public function setPassengers($passenger) {
         
         if ($passenger == 4) {
             $this->passenger = $passenger;
