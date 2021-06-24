@@ -9,6 +9,8 @@ public class Car {
     public Car(String license, Account driver) {
         this.license = license;
         this.driver = driver;
+        passengers = 3;
+        System.out.println("passengers: " + passengers);
     }
 
     void printDataCar() {
