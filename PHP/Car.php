@@ -15,7 +15,8 @@ class Car
 
     public function PrintDataCar()
     {
-        echo "license: {$this->license}, driver: {$this->driver->name}";
+        echo "license: {$this->license}, driver: {$this->driver->name}
+        ";
     }
 
     public function getPassengers() {
@@ -28,7 +29,8 @@ class Car
             $this->passenger = $passenger;
         }
         else {
-            echo "Necesitas asignar 4 pasajeros";
+            echo "Necesitas asignar 4 pasajeros
+            ";
         }
     
     }
