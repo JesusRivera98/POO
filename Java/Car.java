@@ -1,9 +1,9 @@
 package CursoPOOUber.Java;
 
 public class Car {
-    Integer id;
-    String license;
-    Account driver;
+    private Integer id;
+    private String license;
+    private Account driver;
     private Integer passengers;
 
     public Car(String license, Account driver) {
