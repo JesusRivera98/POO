@@ -1,5 +1,4 @@
 # POO
-Repositorio del curso de POO de Platzi
 This repo is from Platzi's course [Programación Orientada a Objetos: POO](https://platzi.com/clases/oop/)
 
 ## Table of contents
