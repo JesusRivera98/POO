@@ -39,7 +39,7 @@ To run this project, install it locally:
 * [Python](https://www.python.org/downloads/)
 * [Visual Studio Code](https://code.visualstudio.com/download)
 
-Also intall this extenssions in VS Code:
+Also install this extenssions in VS Code:
 * Java Extension Pack
 * Debugger for Java
 * PHP Server
