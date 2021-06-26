@@ -40,6 +40,6 @@ To run this project, install it locally:
 * [Visual Studio Code](https://code.visualstudio.com/download)
 
 Also intall this extenssions in VS Code:
-** Java Extension Pack
-** Debugger for Java
-** PHP Server
+* Java Extension Pack
+* Debugger for Java
+* PHP Server
